@@ -1,5 +1,4 @@
 # Developers.Hub-Corporation
-Data Science Internship
 
 # Data Science Intern Tasks
 
