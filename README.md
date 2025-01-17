@@ -102,8 +102,7 @@ To run the scripts, follow these steps:
 
 1. Clone this repository to your local machine:
     ```bash
-    git clone https://github.com/SUNBALSHEHZADI/data-science-intern-tasks.git
-    cd data-science-intern-tasks
+    https://github.com/SUNBALSHEHZADI/Developers.Hub-Corporation.git
     ```
 
 2. Install the required libraries:
